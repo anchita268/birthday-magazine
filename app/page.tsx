@@ -1,7 +1,7 @@
-import PhotoBox from "@/components/PhotoBox";
-import Section from "@/components/Section";
-import Sticker from "@/components/Sticker";
-import { birthdayMessages, interview, loveList, magazine, photoSpread, timeline } from "@/data/magazineContent";
+import PhotoBox from "../components/PhotoBox";
+import Section from "../components/Section";
+import Sticker from "../components/Sticker";
+import { birthdayMessages, interview, loveList, magazine, photoSpread, timeline } from "../data/magazineContent";
 
 const navItems = [
   ["Cover", "#cover"],
